@@ -59,12 +59,12 @@ export const LAYOUT_PRESETS = {
 };
 
 export const ASSETS_MANIFEST = [
-    { alias: 'carRed', src: '/assets/red.png' },
-    { alias: 'carYellow', src: '/assets/yellow.png' },
-    { alias: 'carGreen', src: '/assets/green.png' },
-    { alias: 'carBlue', src: '/assets/blue.png' },
-    { alias: 'hand', src: '/assets/hand.png' },
-    { alias: 'logo', src: '/assets/gamelogo.png' },
-    { alias: 'fail', src: '/assets/fail3.png' },
-    { alias: 'button', src: '/assets/Button.png' }
+    { alias: 'carRed', src: 'assets/red.png' },
+    { alias: 'carYellow', src: 'assets/yellow.png' },
+    { alias: 'carGreen', src: 'assets/green.png' },
+    { alias: 'carBlue', src: 'assets/blue.png' },
+    { alias: 'hand', src: 'assets/hand.png' },
+    { alias: 'logo', src: 'assets/gamelogo.png' },
+    { alias: 'fail', src: 'assets/fail3.png' },
+    { alias: 'button', src: 'assets/Button.png' }
 ];
